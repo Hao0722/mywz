@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="1234.com" resolutions="1x" timestamp="1500463251111">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="1234.com" resolutions="1x" timestamp="1500468039242">
   <folder name="css">
-    <file name="site_global.css" crc="4093912269"/>
-    <file name="master_a-master.css" crc="81886273" ref="fenlei:xiangqing:gerenzhongxin:index:liebiao:gouwuche"/>
+    <file name="site_global.css" crc="194045478"/>
+    <file name="master_a-master.css" crc="3848707552" ref="fenlei:xiangqing:gerenzhongxin:index:liebiao:gouwuche"/>
     <file name="fenlei.css" crc="373227213" ref="fenlei"/>
     <file name="xiangqing.css" crc="4261591929" ref="xiangqing"/>
     <file name="gerenzhongxin.css" crc="4261591929" ref="gerenzhongxin"/>
-    <file name="index.css" crc="258366608" ref="index"/>
+    <file name="index.css" crc="3941256966" ref="index"/>
     <file name="liebiao.css" crc="4261591929" ref="liebiao"/>
     <file name="gouwuche.css" crc="4261591929" ref="gouwuche"/>
   </folder>
@@ -26,27 +26,26 @@
     <file name="touchswipe.js" crc="4200445185" ref="fenlei:index"/>
   </folder>
   <folder name="images">
-    <file name="57c92cd96c47d_1024.jpg" crc="1619340" ref="index">
+    <file name="500082260.jpg" crc="4073546229" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="5684bba5dd8ab.jpg" crc="4037932535" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="528f00ff2476a.jpg" crc="107491877" ref="index">
+    <file name="b0af056b87119c9d49204b83ed8db5b50dd88079f36f-qf3ed9_fw658.jpg" crc="4064294271" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="56fb476223d0a.jpg" crc="184642255" ref="index">
+    <file name="b7688eb7647bd442aa68935c48cd46bcd3c3e6b71cf02-4gpfni_fw658.jpg" crc="390775481" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="522c75da704f0.jpg" crc="384478238" ref="index">
+    <file name="0577f8f6d9a62699f3263cdc9aa3a22e40b0af4f11943-v5usdt_fw658.jpg" crc="470604069" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="52297a100ed26.jpg" crc="218104372" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="189257516" seo="true" mt="1500463186712" redirect="true"/>
-  <file name="fenlei.html" crc="4269021337" seo="true" mt="1500434779809" redirect="true"/>
-  <file name="liebiao.html" crc="405693783" seo="true" mt="1500431940628" redirect="true"/>
-  <file name="xiangqing.html" crc="239097382" seo="true" mt="1500431945997" redirect="true"/>
-  <file name="gouwuche.html" crc="4081885985" seo="true" mt="1500431950938" redirect="true"/>
-  <file name="gerenzhongxin.html" crc="4063049532" seo="true" mt="1500431955640" redirect="true"/>
+  <file name="index.html" crc="505185813" seo="true" mt="1500468037387" redirect="true"/>
+  <file name="fenlei.html" crc="202221390" seo="true" mt="1500467984225" redirect="true"/>
+  <file name="liebiao.html" crc="4118659909" seo="true" mt="1500467984196" redirect="true"/>
+  <file name="xiangqing.html" crc="4028650683" seo="true" mt="1500467984196" redirect="true"/>
+  <file name="gouwuche.html" crc="417931203" seo="true" mt="1500467984196" redirect="true"/>
+  <file name="gerenzhongxin.html" crc="3931603360" seo="true" mt="1500467984196" redirect="true"/>
 </manifest>
